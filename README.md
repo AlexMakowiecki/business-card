@@ -1,4 +1,4 @@
-# Berisso Tourism Showcase
+# Business Card practice project
 ## What is it? 
 It's a simple website simulating a business card, only for practice.
 It's also the first project, part of the Scrimba Course, that I uploaded to Github. This project is part of module 2, where they teach you the web dev basics.
